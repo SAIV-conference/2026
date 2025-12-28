@@ -1,7 +1,7 @@
 {% include partials/header.html %}
   {% assign nbr_days = site.data.program.days | size -%}
 
-  <h1 class="display-5 {% if nbr_days > 1 -%} mb-2 {%- else -%} mb-4 {%- endif %}">
+  <h1 class="display-5 {% if nbr_days > 1 -%} mb-2 {%- else -%} mb-4 {%- endif %} text-break">
     {%- if page.title -%}
       {{- page.title -}}
     {%- else -%}
@@ -16,7 +16,7 @@
       {%- for d in site.data.program.days -%}
         {%- include partials/get_day_hash.html %}
         <li class="nav-item" role="presentation">
-          <a class="nav-link btn btn-outline-secondary {%- if forloop.index == 1 %} active{% endif %}" id="tab-{{ day_hash }}" data-toggle="tab" {%- if d.date %} data-date="{{ d.date }}" {%- endif %} href="#{{ day_hash }}" role="tab" aria-controls="{{ day_hash }}" aria-selected="{% if forloop.index == 1 %}true{% else %}false{% endif %}">{{ day_name }}</a>
+          <a class="nav-link btn btn-outline-secondary {%- if forloop.index == 1 %} active{% endif %}" id="tab-{{ day_hash }}" data-toggle="tab" {%- if d.date -%}{%- include partials/get_talk_timestamp.html %} data-ts="{{ timestamp_start }}" {%- endif %} href="#{{ day_hash }}" role="tab" aria-controls="{{ day_hash }}" aria-selected="{% if forloop.index == 1 %}true{% else %}false{% endif %}">{{ day_name }}</a>
         </li>
       {%- endfor %}
     </ul>
@@ -143,8 +143,8 @@
                   {%- if d_start_hour == 0 and d_start_min == 0 -%}
 
                     {%- assign talk_nbr_steps = talk_duration_min | divided_by: site.conference.program.time_steps -%}
-                    {%- include partials/get_main_category.html -%}
-                    <td rowspan="{{ talk_nbr_steps }}" class="alert alert-{{ main_cat_color }} shadow-sm overflow-hidden" style="z-index: {{ z-index-max | minus: i }}">
+                    {%- include partials/get_track_properties.html -%}
+                    <td rowspan="{{ talk_nbr_steps }}" class="alert alert-{{ track_color }} shadow-sm overflow-hidden" style="z-index: {{ z-index-max | minus: i }}">
 
                       {%- assign live_button_styleclass = "mb-2" %}
                       {%- include partials/show_live_button.html %}
@@ -156,7 +156,7 @@
                         {%- include partials/list_speakers.html %}
                       </p>
                       <p class="mb-1">
-                        {%- include partials/list_sub_categories.html %}
+                        {%- include partials/list_tags.html %}
                       </p>
                     </td>
                     {%- assign active_talk = true %}
@@ -189,11 +189,11 @@
     </div>
   {%- endif -%}
 
-  {%- if site.conference.talks.main_categories %}
+  {%- if site.conference.talks.tracks %}
     <h5 class="mt-4">{{ site.data.lang[site.conference.lang].program.legend | default: "Caption" }}</h5>
-      {%- for main_cat in site.conference.talks.main_categories %}
-        <div class="d-block d-sm-inline-block m-1 p-1 pl-2 pr-2 border-soft-{{ main_cat.color }} bg-soft-{{ main_cat.color }} font-weight-normal">
-          {{- main_cat.name -}}
+      {%- for track_prop in site.conference.talks.tracks %}
+        <div class="d-block d-sm-inline-block m-1 p-1 pl-2 pr-2 border-soft-{{ track_prop.color | default: 'light' }} bg-soft-{{ track_prop.color | default: 'light' }} font-weight-normal">
+          {{- track_prop.name -}}
         </div>
       {%- endfor -%}
   {%- endif -%}

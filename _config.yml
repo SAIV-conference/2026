@@ -26,6 +26,7 @@ exclude:
   - README.md
   - LICENSE.md
   - REDISTRIBUTED.md
+  - jekyll-theme-conference.gemspec
   - purgecss.config.js
 
 # Collections and their defaults
@@ -51,6 +52,11 @@ defaults:
       type: speakers
     values:
       layout: speaker
+  - scope:
+      path: ""
+      type: rooms
+    values:
+      layout: room
 
 conference:
   # Language
