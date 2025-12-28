@@ -2,7 +2,7 @@ title: SAIV 2026
 #preposition: at
 description: >-
   The 9th International Symposium on AI Verification in Lisbon on July 24–25, 2026
-baseurl: /2026 # the subpath of your site, e.g. /blog
+baseurl: /2026 # the subpath of your site, e.g. /blog; comment out for local deployment
 url: "https://www.aiverification.org" # the base hostname & protocol for your site, e.g. https://example.com
 
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
