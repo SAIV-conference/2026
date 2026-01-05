@@ -12,4 +12,6 @@ SAIV 2026 will host the 7th International Verification of Neural Networks Compet
 
 <a href="https://people.csail.mit.edu/asolar/" target="_blank"><b>Armando Solar-Lezama</b></a> (MIT, USA)<br>
 
+<a href="https://sites.google.com/view/larslindemann/main-page" target="_blank"><b>Lars Lindemann</b></a> (ETH Zürich)<br>
+
 <a href="https://djordjezikelic.github.io/" target="_blank"><b>Đorđe Žikelić</b></a> (Singapore Management University)<br>
