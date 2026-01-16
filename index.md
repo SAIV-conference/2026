@@ -6,7 +6,7 @@ Formal reasoning about learning systems presents novel, challenging, and excitin
 
 SAIV 2026 will be co-located with the [Federated Logic Conference](https://www.floc26.org/) in Lisbon, Portugal.
 
-SAIV 2026 will host the 7th International Verification of Neural Networks Competition (VNN-COMP'26).
+SAIV 2026 will host the [7th International Verification of Neural Networks Competition (VNN-COMP'26)](https://vnn-comp.github.io/).
 
 ## Confirmed Invited Speakers and Round Tables
 
