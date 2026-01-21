@@ -74,8 +74,8 @@ conference:
     links:
       - name: About
         relative_url: /about/
-      # - name: Call for Papers
-      #   relative_url: /call/
+      - name: Call for Papers
+        relative_url: /call/
       - name: Committees
         relative_url: /committees/
       # - name: Program
