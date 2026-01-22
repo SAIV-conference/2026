@@ -10,7 +10,29 @@ title: Committees
 
 ## Program Committee
 
-TBA
+- [Luca Arnaboldi](http://arnaboldiluca.eu) (University of Birmingham)
+- [Guy Avni](https://sites.google.com/view/gavni) (University of Haifa)
+- [Elena Botoeva](https://www.kent.ac.uk/school-of-computing/people/3838/botoeva-elena) (University of Kent)
+- [Dana Drachsler Cohen](https://ddana.net.technion.ac.il) (Technion)
+- [Hoang Dung Tran](https://avrlab.unl.edu/person/dung-hoang-tran/) (University of Nebraska)
+- [Nathanaël Fijalkow](https://games-automata-play.com/) (CNRS)
+- [Thomas A. Henzinger](https://pub.ista.ac.at/~tah/) (Institute of Science and Technology Austria)
+- [Omri Isac](https://omriisack.github.io/) (Hebrew University of Jerusalem)
+- [Nils Jansen](https://nilsjansen.org/) (Ruhr-University Bochum
+- [Guy Katz](https://www.katz-lab.com) (Hebrew University of Jerusalem)
+- [Bettina Könighofer](https://www.isec.tugraz.at/person/bettina-koenighofer/) (TU Graz)
+- [Ekaterina Komendantskaya](https://www.southampton.ac.uk/people/62r7bw/professor-ekaterina-komendantskaya) (University of Southampton)
+- [Linyi Li](https://cs.sfu.ca/~linyi/) (Simon Fraser University)
+- [Alessio Lomuscio](https://www.doc.ic.ac.uk/~alessio/) (Imperial College London)
+- [Kaushik Mallik](https://kmallik.github.io) (IMDEA)
+- [Ravi Mangal](https://www.cs.colostate.edu/ravimangal/) (Colorado State University)
+- [Edoardo Manino](https://research.manchester.ac.uk/en/persons/edoardo-manino) (University of Manchester)
+- [Daniel Neider](https://researchers.rc-trust.ai/neider/) (TU Dortmund University)
+- [Corina Pasareanu](https://www.cylab.cmu.edu/directory/bios/pasareanu-corina.html) (Carnegie Mellon University)
+- [Luca Pulina](https://aimet-lab.github.io/luca/) (University of Sassari)
+- [Chelsea Sidrane](https://www.chelseasidrane.com) (KTH Royal Institute of Technology)
+- [Christian Schilling](https://www.christianschilling.net/) (Aalborg University)
+- [Đorđe Žikelić](https://djordjezikelic.github.io) (Singapore Management University)
 
 ## Steering Committee
 
