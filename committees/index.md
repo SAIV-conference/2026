@@ -16,6 +16,7 @@ title: Committees
 - [Dana Drachsler Cohen](https://ddana.net.technion.ac.il) (Technion)
 - [Hoang Dung Tran](https://avrlab.unl.edu/person/dung-hoang-tran/) (University of Nebraska)
 - [Nathanaël Fijalkow](https://games-automata-play.com/) (CNRS)
+- [Mirco Giacobbe](https://mircogiacobbe.github.io/) (University of Birmingham)
 - [Thomas A. Henzinger](https://pub.ista.ac.at/~tah/) (Institute of Science and Technology Austria)
 - [Omri Isac](https://omriisack.github.io/) (Hebrew University of Jerusalem)
 - [Nils Jansen](https://nilsjansen.org/) (Ruhr-University Bochum
