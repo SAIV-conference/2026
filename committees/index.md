@@ -23,6 +23,7 @@ title: Committees
 - [Guy Katz](https://www.katz-lab.com) (Hebrew University of Jerusalem)
 - [Bettina Könighofer](https://www.isec.tugraz.at/person/bettina-koenighofer/) (TU Graz)
 - [Ekaterina Komendantskaya](https://www.southampton.ac.uk/people/62r7bw/professor-ekaterina-komendantskaya) (University of Southampton)
+- [Jan Křetínský](https://live-lab.fi.muni.cz/jan-kretinsky.html) (Masaryk University)
 - [Linyi Li](https://cs.sfu.ca/~linyi/) (Simon Fraser University)
 - [Alessio Lomuscio](https://www.doc.ic.ac.uk/~alessio/) (Imperial College London)
 - [Kaushik Mallik](https://kmallik.github.io) (IMDEA)
