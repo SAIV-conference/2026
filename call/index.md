@@ -21,9 +21,11 @@ All dates are 11:59 AM AoE.
 
 We invite three categories of submissions:
 
-1. <b>*Original papers*</b> describe original research and sufficient detail to assess the merits and relevance of the submission. For papers reporting experimental results, authors are strongly encouraged to make their data available. We welcome both short and long papers. Submissions should not exceed 18 pages (LNCS format).
+1. <b>*Original papers*</b> describe original research and sufficient detail to assess the merits and relevance of the submission. For papers reporting experimental results, authors are strongly encouraged to make their data available.
 2. <b>*Benchmark and case-study papers*</b> propose a challenge to the SAIV community or showcase practical evaluations, real-world applications, or lessons learned in verifying and deploying safety-critical AI systems, focusing on metrics, methodologies, and safety outcomes.
 3. <b>*Presentation-only papers*</b>: SAIV aims to integrate researchers from the AI and FM communities. Papers from these areas are dispersed across many conferences. A visit to SAIV should offer a wide picture of the latest research in the field. Thus, we welcome presentations of papers that will not appear in the proceedings.
+
+We welcome both short and long papers. For categories 1 and 2, submissions should not exceed 18 pages (LNCS format, not counting references and appendices).
 
 In addition, VNN-COMP will invite <b>competition contribution papers</b> from participants for both tools and benchmarks that will also appear in the proceedings through a separate call; see the VNN-COMP website for more details.
 
