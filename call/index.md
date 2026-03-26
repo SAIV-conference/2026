@@ -9,8 +9,8 @@ SAIV invites submissions presenting theoretical results, novel algorithms, tool 
 
 All dates are 11:59 AM AoE.
 
-- Abstract Registration: ~~<a href="https://time.is/compare/2359_19_Mar_2026_in_UTC-12/local">March 19</a>~~ <img src="../assets/images/new.png" alt="new"/> <a href="https://time.is/compare/2359_24_Mar_2026_in_UTC-12/local">March 24</a>
-- Paper Submission: <a href="https://time.is/compare/2359_26_Mar_2026_in_UTC-12/local">March 26</a>
+- Abstract Registration: ~~<a href="https://time.is/compare/2359_19_Mar_2026_in_UTC-12/local">March 19</a>~~ <a href="https://time.is/compare/2359_24_Mar_2026_in_UTC-12/local">March 24</a>
+- Paper Submission: ~~<a href="https://time.is/compare/2359_26_Mar_2026_in_UTC-12/local">March 26</a>~~ <img src="../assets/images/new.png" alt="new"/> <a href="https://time.is/compare/2359_1_Apr_2026_in_UTC-12/local">April 1</a>
 - <img src="../assets/images/new.png" alt="new"/> *FLoC Track* Paper Submission: <a href="https://time.is/compare/2359_1_May_2026_in_UTC-12/local">May 1</a>
 - Notification: <a href="https://time.is/compare/2359_15_May_2026_in_UTC-12/local">May 15</a>
 - Poster Submission: <a href="https://time.is/compare/2359_11_Jun_2026_in_UTC-12/local">June 11</a>
