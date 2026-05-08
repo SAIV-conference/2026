@@ -13,8 +13,6 @@ All dates are 11:59 AM AoE.
 - Paper Submission: ~~<a href="https://time.is/compare/2359_26_Mar_2026_in_UTC-12/local">March 26</a>~~ <a href="https://time.is/compare/2359_1_Apr_2026_in_UTC-12/local">April 1</a>
 - <img src="../assets/images/new.png" alt="new"/> *FLoC Track* Paper Submission: <a href="https://time.is/compare/2359_1_May_2026_in_UTC-12/local">May 1</a>
 - Notification: <a href="https://time.is/compare/2359_15_May_2026_in_UTC-12/local">May 15</a>
-- Poster Submission: <a href="https://time.is/compare/2359_11_Jun_2026_in_UTC-12/local">June 11</a>
-- Poster Notification: <a href="https://time.is/compare/2359_18_Jun_2026_in_UTC-12/local">June 18</a>
 
 ## <img src="../assets/images/new.png" alt="new"/> FLoC Track
 
