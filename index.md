@@ -8,6 +8,8 @@ SAIV 2026 will be co-located with the [Federated Logic Conference](https://www.f
 
 SAIV 2026 will host the [7th International Verification of Neural Networks Competition (VNN-COMP'26)](https://vnn-comp.github.io/).
 
+**Registration** is handled by [FLoC](https://www.floc26.org/registration). Early registration discounts are valid until **June 1**.
+
 ## Confirmed Invited Speakers and Round Tables
 
 <a href="https://people.csail.mit.edu/asolar/" target="_blank"><b>Armando Solar-Lezama</b></a> (MIT, USA)<br>

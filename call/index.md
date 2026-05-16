@@ -11,10 +11,10 @@ All dates are 11:59 AM AoE.
 
 - Abstract Registration: ~~<a href="https://time.is/compare/2359_19_Mar_2026_in_UTC-12/local">March 19</a>~~ <a href="https://time.is/compare/2359_24_Mar_2026_in_UTC-12/local">March 24</a>
 - Paper Submission: ~~<a href="https://time.is/compare/2359_26_Mar_2026_in_UTC-12/local">March 26</a>~~ <a href="https://time.is/compare/2359_1_Apr_2026_in_UTC-12/local">April 1</a>
-- <img src="../assets/images/new.png" alt="new"/> *FLoC Track* Paper Submission: <a href="https://time.is/compare/2359_1_May_2026_in_UTC-12/local">May 1</a>
+- *FLoC Track* Paper Submission: <a href="https://time.is/compare/2359_1_May_2026_in_UTC-12/local">May 1</a>
 - Notification: <a href="https://time.is/compare/2359_15_May_2026_in_UTC-12/local">May 15</a>
 
-## <img src="../assets/images/new.png" alt="new"/> FLoC Track
+## FLoC Track
 
 SAIV 2026 offers a separate *FLoC track*. A submission to this track must be based on a FLoC submission to one of the conferences **CAV**, **IJCAR**, **KR**, or **SAT**. Submissions should follow the general SAIV submission guidelines (see below).
 
