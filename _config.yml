@@ -80,10 +80,10 @@ conference:
         relative_url: /committees/
       # - name: Program
       #   relative_url: /program/
-      # - name: Talks
-      #   relative_url: /talks/
-      # - name: Speakers & Authors
-      #   relative_url: /speakers/
+      - name: Talks
+        relative_url: /talks/
+      - name: Speakers & Authors
+        relative_url: /speakers/
       # - name: Posters
       #   relative_url: /posters/
       #- name: Location
@@ -176,20 +176,26 @@ conference:
   talks:
     ## Talk categories
     main_categories:
+      - name: Keynote
+        color: danger
       - name: Invited Talk
         color: success
-      - name: Presentation
-        color: primary
-      - name: VNN-COMP
-        color: info
-      - name: Discussion
-        color: warning
-      - name: Break
-        color: light
-      - name: Posters
-        color: light
+      # - name: Presentation
+      #   color: warning
+      # - name: VNN-COMP
+      #   color: info
+      # - name: Discussion
+      #   color: dark
+      # - name: Break
+      #   color: light
+      # - name: Posters
+        # color: light
     ## Hide icons on talk overview page
     hide_icons: false
+    ## Tracks
+    # tracks:
+      # - name: Track A
+        # color: success
 
   speakers:
     ## Show first and last name
