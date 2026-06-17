@@ -180,14 +180,14 @@ conference:
         color: danger
       - name: Invited Talk
         color: success
-      # - name: Presentation
-      #   color: warning
-      # - name: VNN-COMP
-      #   color: info
-      # - name: Discussion
-      #   color: dark
-      # - name: Break
-      #   color: light
+      - name: Presentation
+        color: warning
+      - name: VNN-COMP
+        color: info
+      - name: Discussion
+        color: dark
+      - name: Break
+        color: light
       # - name: Posters
         # color: light
     ## Hide icons on talk overview page
