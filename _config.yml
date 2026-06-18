@@ -78,8 +78,8 @@ conference:
         relative_url: /call/
       - name: Committees
         relative_url: /committees/
-      # - name: Program
-      #   relative_url: /program/
+      - name: Program
+        relative_url: /program/
       - name: Talks
         relative_url: /talks/
       - name: Speakers & Authors
@@ -129,9 +129,9 @@ conference:
     logo:
         img: 'logo_full.svg'
     links:
-    # - name: Program
-    #   disabled: true
-    #   relative_url: /program/
+    - name: Program
+      # disabled: true
+      relative_url: /program/
     # - name: How to get there
     #   disabled: true
     #   absolute_url: 'XX'
@@ -225,7 +225,7 @@ conference:
     url: '/program'
 
     # Time steps in program table
-    time_steps: 10 # in minutes
+    time_steps: 15 # in minutes
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: true

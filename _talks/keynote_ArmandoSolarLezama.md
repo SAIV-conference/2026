@@ -4,6 +4,7 @@ speakers:
   - Armando Solar-Lezama
 categories:
   - Keynote
+  - "Chair: TBA"
 ---
 
 ### Abstract
