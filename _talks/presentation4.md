@@ -6,6 +6,7 @@ speakers:
   - Jianjun Zhao
 categories:
   - Presentation
+  - Short presentation (7 min)
   - "Chair: TBA"
 ---
 

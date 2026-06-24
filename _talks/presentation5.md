@@ -6,6 +6,8 @@ speakers:
   - Daniel Neider
 categories:
   - Presentation
+  - Paper
+  - Short presentation (7 min)
   - "Chair: TBA"
 ---
 

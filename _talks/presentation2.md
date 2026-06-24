@@ -6,6 +6,7 @@ speakers:
   - Anna Lukina
 categories:
   - Presentation
+  - Short presentation (7 min)
   - "Chair: TBA"
 ---
 

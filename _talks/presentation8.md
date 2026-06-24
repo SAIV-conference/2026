@@ -9,6 +9,7 @@ speakers:
   - Vijay Ganesh
 categories:
   - Presentation
+  - Short presentation (7 min)
   - "Chair: TBA"
 ---
 

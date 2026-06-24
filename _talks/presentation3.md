@@ -8,6 +8,7 @@ speakers:
   - Guy Katz
 categories:
   - Presentation
+  - Short presentation (7 min)
   - "Chair: TBA"
 ---
 

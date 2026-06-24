@@ -6,6 +6,7 @@ speakers:
   - Tobias Sutter
 categories:
   - Presentation
+  - Short presentation (7 min)
   - "Chair: TBA"
 ---
 

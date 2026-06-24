@@ -13,6 +13,8 @@ speakers:
   - Michael Rawson
 categories:
   - Presentation
+  - Paper
+  - Short presentation (7 min)
   - "Chair: TBA"
 ---
 

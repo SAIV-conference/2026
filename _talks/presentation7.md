@@ -11,6 +11,8 @@ speakers:
   - Guy Katz
 categories:
   - Presentation
+  - Paper
+  - Short presentation (7 min)
   - "Chair: TBA"
 ---
 

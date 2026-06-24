@@ -6,6 +6,7 @@ speakers:
   - Bernhard Beckert
 categories:
   - Presentation
+  - Short presentation (7 min)
   - "Chair: TBA"
 ---
 
