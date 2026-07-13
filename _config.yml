@@ -138,9 +138,9 @@ conference:
     # - name: Registration
     #   disabled: true
     #   absolute_url: 'XX'
-    # - name: Proceedings
-    #   disabled: true
-    #   absolute_url: 'XX'
+    - name: Proceedings
+      # disabled: true
+      absolute_url: 'https://link.springer.com/book/9783032323569'
 
 
   # Information boxes
@@ -157,6 +157,10 @@ conference:
   #  - text: This is just some random content for demonstration purposes.
   #    color: warning
   #    pages_only: true
+  info_bars:
+    - text: The **proceedings** are available online [here](https://link.springer.com/book/9783032323569).
+      color: warning
+      main_only: true
 
   # Live indications
   #live:
