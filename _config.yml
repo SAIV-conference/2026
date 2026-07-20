@@ -161,6 +161,9 @@ conference:
     - text: The **proceedings** are available online [here](https://link.springer.com/book/9783032323569).
       color: warning
       main_only: true
+    - text: For the venue and directions, see [the FLoC page](https://www.floc26.org/venue). The room is **C1.03**.
+      color: warning
+      main_only: true
 
   # Live indications
   #live:
