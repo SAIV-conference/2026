@@ -7,7 +7,7 @@ speakers:
 categories:
   - Presentation
   - Paper
-  - "Chair: TBA"
+  - "Chair: Christian Schilling"
 ---
 
 ### Abstract

@@ -13,7 +13,7 @@ categories:
   - Presentation
   - Paper
   - Short presentation (7 min)
-  - "Chair: TBA"
+  - "Chair: Kaushik Mallik"
 ---
 
 ### Abstract

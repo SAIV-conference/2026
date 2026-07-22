@@ -9,7 +9,7 @@ speakers:
 categories:
   - Presentation
   - Paper
-  - "Chair: TBA"
+  - "Chair: Kaushik Mallik"
 ---
 
 ### Abstract

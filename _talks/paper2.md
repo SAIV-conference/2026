@@ -9,7 +9,7 @@ speakers:
 categories:
   - Presentation
   - Paper
-  - "Chair: TBA"
+  - "Chair: Ekaterina Komendantskaya"
 ---
 
 ### Abstract

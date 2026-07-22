@@ -2,7 +2,5 @@
 name: VNN-COMP
 categories:
   - VNN-COMP
-  - "Chair: TBA"
+  - "Chair: Taylor T. Johnson"
 ---
-
-TBA

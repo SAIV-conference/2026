@@ -6,7 +6,7 @@ speakers:
 categories:
   - Presentation
   - Paper
-  - "Chair: TBA"
+  - "Chair: Omri Isac"
 ---
 
 ### Abstract

@@ -5,7 +5,7 @@ speakers:
 categories:
   - Invited Talk
   - Table Host
-  - "Chair: TBA"
+  - "Chair: Guy Avni"
 ---
 
 ### Abstract

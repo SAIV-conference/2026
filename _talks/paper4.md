@@ -6,7 +6,7 @@ speakers:
 categories:
   - Presentation
   - Paper
-  - "Chair: TBA"
+  - "Chair: Taylor T. Johnson"
 ---
 
 ### Abstract

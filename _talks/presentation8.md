@@ -10,7 +10,7 @@ speakers:
 categories:
   - Presentation
   - Short presentation (7 min)
-  - "Chair: TBA"
+  - "Chair: Kaushik Mallik"
 ---
 
 ### Abstract

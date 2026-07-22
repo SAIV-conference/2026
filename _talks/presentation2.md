@@ -7,7 +7,7 @@ speakers:
 categories:
   - Presentation
   - Short presentation (7 min)
-  - "Chair: TBA"
+  - "Chair: Ekaterina Komendantskaya"
 ---
 
 ### Abstract
