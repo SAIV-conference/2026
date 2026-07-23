@@ -5,7 +5,7 @@ speakers:
 categories:
   - Presentation
   - Paper
-  - "Chair: Christian Schilling"
+  - "Chair: Mirco Giacobbe"
 ---
 
 ### Abstract
