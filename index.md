@@ -20,4 +20,4 @@ SAIV 2026 will host the [7th International Verification of Neural Networks Compe
 
 <a href="https://lenkatetkova.github.io/" target="_blank"><b>Lenka Tětková</b></a> (Technical University of Denmark)<br>
 
-<a href="https://djordjezikelic.github.io/" target="_blank"><b>Đorđe Žikelić</b></a> (Singapore Management University)<br>
+<a href="https://djordjezikelic.github.io/" target="_blank"><b>Đorđe Žikelić</b></a> (Nanyang Technological University)<br>
