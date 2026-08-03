@@ -164,6 +164,10 @@ conference:
   #   - text: For the venue and directions, see [the FLoC page](https://www.floc26.org/venue). The room is **C1.03**.
   #     color: warning
   #     main_only: true
+  info_bars:
+    - text: SAIV 2026 has successfully concluded!
+      color: warning
+      main_only: true
 
   # Live indications
   #live:
