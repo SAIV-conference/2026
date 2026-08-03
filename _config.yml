@@ -157,13 +157,13 @@ conference:
   #  - text: This is just some random content for demonstration purposes.
   #    color: warning
   #    pages_only: true
-  info_bars:
-    - text: The **proceedings** are available online [here](https://link.springer.com/book/9783032323569).
-      color: warning
-      main_only: true
-    - text: For the venue and directions, see [the FLoC page](https://www.floc26.org/venue). The room is **C1.03**.
-      color: warning
-      main_only: true
+  # info_bars:
+  #   - text: The **proceedings** are available online [here](https://link.springer.com/book/9783032323569).
+  #     color: warning
+  #     main_only: true
+  #   - text: For the venue and directions, see [the FLoC page](https://www.floc26.org/venue). The room is **C1.03**.
+  #     color: warning
+  #     main_only: true
 
   # Live indications
   #live:

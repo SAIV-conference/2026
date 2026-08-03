@@ -14,10 +14,10 @@ SAIV 2026 will host the [7th International Verification of Neural Networks Compe
 
 <a href="https://people.csail.mit.edu/asolar/" target="_blank"><b>Armando Solar-Lezama</b></a> (MIT, USA)<br>
 
-<a href="https://sites.google.com/view/larslindemann/main-page" target="_blank"><b>Lars Lindemann</b></a> (ETH Zurich)<br>
+<a href="https://sites.google.com/view/larslindemann/main-page" target="_blank"><b>Lars Lindemann</b></a> (ETH Zurich) [<a href="assets/slides/safety_under_interaction_driven_distribution_shift.pdf">slides</a>]<br>
 
-<a href="https://saramagliacane.github.io/" target="_blank"><b>Sara Magliacane</b></a> (University of Amsterdam)<br>
+<a href="https://saramagliacane.github.io/" target="_blank"><b>Sara Magliacane</b></a> (University of Amsterdam) [<a href="assets/slides/causal_representation_learning.pdf">slides</a>]<br>
 
-<a href="https://lenkatetkova.github.io/" target="_blank"><b>Lenka Tětková</b></a> (Technical University of Denmark)<br>
+<a href="https://lenkatetkova.github.io/" target="_blank"><b>Lenka Tětková</b></a> (Technical University of Denmark) [<a href="assets/slides/latent_space_nagivation.pdf">slides</a>]<br>
 
-<a href="https://djordjezikelic.github.io/" target="_blank"><b>Đorđe Žikelić</b></a> (Nanyang Technological University)<br>
+<a href="https://djordjezikelic.github.io/" target="_blank"><b>Đorđe Žikelić</b></a> (Nanyang Technological University) [<a href="assets/slides/neural_stochastic_control_and_verification.pdf">slides</a>]<br>
