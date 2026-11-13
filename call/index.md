@@ -31,7 +31,7 @@ We welcome presentations of papers that have been accepted at one of the FLoC co
 
 ## Submission Guidelines
 
-###### [→ HotCRP submission website](https://submissions.floc26.org/saiv/)
+###### Submission (via HotCRP) is closed.
 
 We invite three categories of submissions:
 

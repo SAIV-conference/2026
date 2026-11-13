@@ -30,7 +30,7 @@ title: Committees
 - [Daniel Neider](https://researchers.rc-trust.ai/neider/) (TU Dortmund University)
 - [Corina Pasareanu](https://www.cylab.cmu.edu/directory/bios/pasareanu-corina.html) (Carnegie Mellon University)
 - [Chelsea Sidrane](https://www.chelseasidrane.com) (KTH Royal Institute of Technology)
-- [Hoang Dung Tran](https://avrlab.unl.edu/person/dung-hoang-tran/) (University of Nebraska)
+- [Hoang Dung Tran](https://sites.google.com/view/v2a2/) (University of Nebraska)
 - [Đorđe Žikelić](https://djordjezikelic.github.io) (Singapore Management University)
 
 ## Steering Committee
@@ -40,5 +40,5 @@ title: Committees
 - [Taylor T. Johnson](http://www.taylortjohnson.com/) (Vanderbilt University)
 - [Guy Katz](https://www.katz-lab.com/) (Hebrew University of Jerusalem)
 - [Anna Lukina](https://annalukina.com/) (Delft University of Technology)
-- [Nina Narodytska](https://research.vmware.com/researchers/nina-narodytska) (VMware Research)
+- [Nina Narodytska](https://narodytska.com/) (VMware Research)
 - [Christian Schilling](https://www.christianschilling.net/) (Aalborg University)
